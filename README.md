@@ -7,7 +7,8 @@ DAX measures, and an executive dashboard delivering insights on revenue,
 profitability, discount behaviour, regional coverage, and sub-category
 performance.
 
-![Global Superstore Dashboard](Adidas Dashboard.png)
+![Global Adidas Sales Dashboard](Adidas Dashboard.png)
+
 ---
 
 ## Dataset Overview
