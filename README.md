@@ -1,4 +1,4 @@
-# Adidas-Sales-Dashboard
+# Adidas Sales Dashboard
 
 An end-to-end Business Intelligence project built with Microsoft Power BI on a
 Tamil Nadu grocery retail dataset of 9,994 orders (Jan 2015 – Dec 2018). The
