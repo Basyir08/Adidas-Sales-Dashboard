@@ -7,7 +7,7 @@ DAX measures, and an executive dashboard delivering insights on revenue,
 profitability, discount behaviour, regional coverage, and sub-category
 performance.
 
-![Adidas-Sales-Dashboard](Adidas Dashboard.png)
+[Adidas Sales Analysis Dashboard](<Adidas Dashboard.png>)
 ---
 
 ## Dataset Overview
