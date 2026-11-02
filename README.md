@@ -8,7 +8,6 @@ profitability, discount behaviour, regional coverage, and sub-category
 performance.
 
 ![Adidas-Sales-Dashboard](Adidas Dashboard.png)
-
 ---
 
 ## Dataset Overview
